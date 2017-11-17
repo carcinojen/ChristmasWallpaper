@@ -1,1 +1,9 @@
-
+{
+  "wallpapers": [
+    {
+            "name": "Ruby Snow",
+            "author": "Jen Wolford",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/mountains.png"
+        }
+  ]
+}
